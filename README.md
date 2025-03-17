@@ -89,5 +89,5 @@ This project is licensed under the MIT License
 
 
 ## Contact
-Name - chandima.senarathna97@gmail.com
+Email - chandima.senarathna97@gmail.com
 Project Link: [https://github.com/CSzzs/mask-detection]
