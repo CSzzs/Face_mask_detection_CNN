@@ -38,18 +38,6 @@ The CNN model architecture consists of:
 - Dense layers for classification
 - Dropout layers to prevent overfitting
 
-## Project Structure
-```
-mask-detection/
-│
-├── data/                     # Dataset directory
-├── models/                   # Saved model files
-├── notebooks/               
-│   └── Mask_Detection_CNN.ipynb  # Main training notebook
-├── requirements.txt         # Project dependencies
-└── README.md
-```
-
 ## How to Run
 1. Clone the repository:
 ```bash
